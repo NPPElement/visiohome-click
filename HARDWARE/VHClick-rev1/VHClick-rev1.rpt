@@ -1,0 +1,885 @@
+## Footprint report - date 2019 November 29, Friday 21:44:52
+## Created by Pcbnew version kicad (5.1.4-0-10_14)
+## Unit = mm, Angle = deg.
+
+$BeginDESCRIPTION
+
+$BOARD
+upper_left_corner 94.804099 49.249199
+lower_right_corner 154.954101 109.399201
+$EndBOARD
+
+$MODULE "D1"
+reference "D1"
+value "SB160"
+footprint "Diodes_SMD:D_SMA"
+attribut smd
+position 139.103100 80.403700  orientation 0.00
+layer back
+$PAD "2"
+Shape Прямоуг. Layer back
+position  2.000000  0.000000  size  2.500000  1.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Прямоуг. Layer back
+position -2.000000  0.000000  size  2.500000  1.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D1
+
+$MODULE "D2"
+reference "D2"
+value "SB160"
+footprint "Diodes_SMD:D_SMA"
+attribut smd
+position 139.103100 83.350100  orientation 0.00
+layer back
+$PAD "1"
+Shape Прямоуг. Layer back
+position -2.000000  0.000000  size  2.500000  1.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Прямоуг. Layer back
+position  2.000000  0.000000  size  2.500000  1.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D2
+
+$MODULE "D3"
+reference "D3"
+value "SB160"
+footprint "Diodes_SMD:D_SMA"
+attribut smd
+position 139.103100 86.296500  orientation 0.00
+layer back
+$PAD "2"
+Shape Прямоуг. Layer back
+position  2.000000  0.000000  size  2.500000  1.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Прямоуг. Layer back
+position -2.000000  0.000000  size  2.500000  1.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D3
+
+$MODULE "D4"
+reference "D4"
+value "SB160"
+footprint "Diodes_SMD:D_SMA"
+attribut smd
+position 139.103100 89.242900  orientation 0.00
+layer back
+$PAD "1"
+Shape Прямоуг. Layer back
+position -2.000000  0.000000  size  2.500000  1.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Прямоуг. Layer back
+position  2.000000  0.000000  size  2.500000  1.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D4
+
+$MODULE "D5"
+reference "D5"
+value "SB160"
+footprint "Diodes_SMD:D_SMA"
+attribut smd
+position 139.103100 92.189300  orientation 0.00
+layer back
+$PAD "2"
+Shape Прямоуг. Layer back
+position  2.000000  0.000000  size  2.500000  1.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Прямоуг. Layer back
+position -2.000000  0.000000  size  2.500000  1.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D5
+
+$MODULE "D6"
+reference "D6"
+value "SB160"
+footprint "Diodes_SMD:D_SMA"
+attribut smd
+position 129.540000 80.403700  orientation 0.00
+layer back
+$PAD "1"
+Shape Прямоуг. Layer back
+position -2.000000  0.000000  size  2.500000  1.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Прямоуг. Layer back
+position  2.000000  0.000000  size  2.500000  1.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D6
+
+$MODULE "D7"
+reference "D7"
+value "SB160"
+footprint "Diodes_SMD:D_SMA"
+attribut smd
+position 129.540000 83.350100  orientation 0.00
+layer back
+$PAD "2"
+Shape Прямоуг. Layer back
+position  2.000000  0.000000  size  2.500000  1.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Прямоуг. Layer back
+position -2.000000  0.000000  size  2.500000  1.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D7
+
+$MODULE "D8"
+reference "D8"
+value "SB160"
+footprint "Diodes_SMD:D_SMA"
+attribut smd
+position 129.540000 86.296500  orientation 0.00
+layer back
+$PAD "1"
+Shape Прямоуг. Layer back
+position -2.000000  0.000000  size  2.500000  1.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Прямоуг. Layer back
+position  2.000000  0.000000  size  2.500000  1.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D8
+
+$MODULE "D9"
+reference "D9"
+value "SB160"
+footprint "Diodes_SMD:D_SMA"
+attribut smd
+position 129.540000 89.242900  orientation 0.00
+layer back
+$PAD "2"
+Shape Прямоуг. Layer back
+position  2.000000  0.000000  size  2.500000  1.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Прямоуг. Layer back
+position -2.000000  0.000000  size  2.500000  1.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D9
+
+$MODULE "D10"
+reference "D10"
+value "SB160"
+footprint "Diodes_SMD:D_SMA"
+attribut smd
+position 129.540000 92.189300  orientation 0.00
+layer back
+$PAD "1"
+Shape Прямоуг. Layer back
+position -2.000000  0.000000  size  2.500000  1.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Прямоуг. Layer back
+position  2.000000  0.000000  size  2.500000  1.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D10
+
+$MODULE "D11"
+reference "D11"
+value "SB160"
+footprint "Diodes_SMD:D_SMA"
+attribut smd
+position 129.540000 65.671700  orientation 0.00
+layer back
+$PAD "2"
+Shape Прямоуг. Layer back
+position  2.000000  0.000000  size  2.500000  1.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Прямоуг. Layer back
+position -2.000000  0.000000  size  2.500000  1.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D11
+
+$MODULE "D12"
+reference "D12"
+value "SB160"
+footprint "Diodes_SMD:D_SMA"
+attribut smd
+position 129.540000 68.618100  orientation 0.00
+layer back
+$PAD "1"
+Shape Прямоуг. Layer back
+position -2.000000  0.000000  size  2.500000  1.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Прямоуг. Layer back
+position  2.000000  0.000000  size  2.500000  1.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D12
+
+$MODULE "D13"
+reference "D13"
+value "SB160"
+footprint "Diodes_SMD:D_SMA"
+attribut smd
+position 129.540000 71.564500  orientation 0.00
+layer back
+$PAD "2"
+Shape Прямоуг. Layer back
+position  2.000000  0.000000  size  2.500000  1.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Прямоуг. Layer back
+position -2.000000  0.000000  size  2.500000  1.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D13
+
+$MODULE "D14"
+reference "D14"
+value "SB160"
+footprint "Diodes_SMD:D_SMA"
+attribut smd
+position 129.540000 74.510900  orientation 0.00
+layer back
+$PAD "1"
+Shape Прямоуг. Layer back
+position -2.000000  0.000000  size  2.500000  1.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Прямоуг. Layer back
+position  2.000000  0.000000  size  2.500000  1.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D14
+
+$MODULE "D15"
+reference "D15"
+value "SB160"
+footprint "Diodes_SMD:D_SMA"
+attribut smd
+position 129.540000 77.457300  orientation 0.00
+layer back
+$PAD "2"
+Shape Прямоуг. Layer back
+position  2.000000  0.000000  size  2.500000  1.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Прямоуг. Layer back
+position -2.000000  0.000000  size  2.500000  1.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D15
+
+$MODULE "D16"
+reference "D16"
+value "SB160"
+footprint "Diodes_SMD:D_SMA"
+attribut smd
+position 139.103100 65.671700  orientation 0.00
+layer back
+$PAD "1"
+Shape Прямоуг. Layer back
+position -2.000000  0.000000  size  2.500000  1.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Прямоуг. Layer back
+position  2.000000  0.000000  size  2.500000  1.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D16
+
+$MODULE "D17"
+reference "D17"
+value "SB160"
+footprint "Diodes_SMD:D_SMA"
+attribut smd
+position 139.103100 68.618100  orientation 0.00
+layer back
+$PAD "2"
+Shape Прямоуг. Layer back
+position  2.000000  0.000000  size  2.500000  1.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Прямоуг. Layer back
+position -2.000000  0.000000  size  2.500000  1.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D17
+
+$MODULE "D18"
+reference "D18"
+value "SB160"
+footprint "Diodes_SMD:D_SMA"
+attribut smd
+position 139.103100 71.564500  orientation 0.00
+layer back
+$PAD "1"
+Shape Прямоуг. Layer back
+position -2.000000  0.000000  size  2.500000  1.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Прямоуг. Layer back
+position  2.000000  0.000000  size  2.500000  1.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D18
+
+$MODULE "D19"
+reference "D19"
+value "SB160"
+footprint "Diodes_SMD:D_SMA"
+attribut smd
+position 139.103100 74.510900  orientation 0.00
+layer back
+$PAD "2"
+Shape Прямоуг. Layer back
+position  2.000000  0.000000  size  2.500000  1.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Прямоуг. Layer back
+position -2.000000  0.000000  size  2.500000  1.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D19
+
+$MODULE "D20"
+reference "D20"
+value "SB160"
+footprint "Diodes_SMD:D_SMA"
+attribut smd
+position 139.103100 77.457300  orientation 0.00
+layer back
+$PAD "1"
+Shape Прямоуг. Layer back
+position -2.000000  0.000000  size  2.500000  1.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Прямоуг. Layer back
+position  2.000000  0.000000  size  2.500000  1.800000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  D20
+
+$MODULE "J1"
+reference "J1"
+value "RJ45"
+footprint "Connectors:RJ45_8"
+attribut none
+position 122.008900 66.708100  orientation 270.00
+layer front
+$PAD "8"
+Shape Окружность Layer both
+position  8.890000 -2.540000  size  1.500000  1.500000  orientation 0.00
+drill  0.900000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Окружность Layer both
+position  7.620000  0.000000  size  1.500000  1.500000  orientation 0.00
+drill  0.900000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Окружность Layer both
+position  6.350000 -2.540000  size  1.500000  1.500000  orientation 0.00
+drill  0.900000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Окружность Layer both
+position  5.080000  0.000000  size  1.500000  1.500000  orientation 0.00
+drill  0.900000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Окружность Layer both
+position  3.810000 -2.540000  size  1.500000  1.500000  orientation 0.00
+drill  0.900000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Окружность Layer both
+position  2.540000  0.000000  size  1.500000  1.500000  orientation 0.00
+drill  0.900000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Окружность Layer both
+position  1.270000 -2.540000  size  1.500000  1.500000  orientation 0.00
+drill  0.900000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Прямоуг. Layer both
+position  0.000000  0.000000  size  1.500000  1.500000  orientation 0.00
+drill  0.900000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "Hole"
+Shape Окружность Layer both
+position -1.490000  6.350000  size  3.650000  3.650000  orientation 0.00
+drill  3.250000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "Hole"
+Shape Окружность Layer both
+position 10.380000  6.350000  size  3.650000  3.650000  orientation 0.00
+drill  3.250000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J1
+
+$MODULE "J2"
+reference "J2"
+value "RJ45"
+footprint "Connectors:RJ45_8"
+attribut none
+position 122.021600 82.931000  orientation 270.00
+layer front
+$PAD "Hole"
+Shape Окружность Layer both
+position 10.380000  6.350000  size  3.650000  3.650000  orientation 0.00
+drill  3.250000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "Hole"
+Shape Окружность Layer both
+position -1.490000  6.350000  size  3.650000  3.650000  orientation 0.00
+drill  3.250000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Прямоуг. Layer both
+position  0.000000  0.000000  size  1.500000  1.500000  orientation 0.00
+drill  0.900000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Окружность Layer both
+position  1.270000 -2.540000  size  1.500000  1.500000  orientation 0.00
+drill  0.900000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Окружность Layer both
+position  2.540000  0.000000  size  1.500000  1.500000  orientation 0.00
+drill  0.900000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Окружность Layer both
+position  3.810000 -2.540000  size  1.500000  1.500000  orientation 0.00
+drill  0.900000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Окружность Layer both
+position  5.080000  0.000000  size  1.500000  1.500000  orientation 0.00
+drill  0.900000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Окружность Layer both
+position  6.350000 -2.540000  size  1.500000  1.500000  orientation 0.00
+drill  0.900000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Окружность Layer both
+position  7.620000  0.000000  size  1.500000  1.500000  orientation 0.00
+drill  0.900000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Окружность Layer both
+position  8.890000 -2.540000  size  1.500000  1.500000  orientation 0.00
+drill  0.900000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J2
+
+$MODULE "B4"
+reference "B4"
+value "02x05"
+footprint "Pin_Headers:Pin_Header_Straight_2x05_Pitch2.54mm_SMD"
+attribut smd
+position 141.846300 87.134700  orientation 0.00
+layer front
+$PAD "10"
+Shape Прямоуг. Layer front
+position  2.525000  5.080000  size  3.150000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "9"
+Shape Прямоуг. Layer front
+position -2.525000  5.080000  size  3.150000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Прямоуг. Layer front
+position  2.525000  2.540000  size  3.150000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Прямоуг. Layer front
+position -2.525000  2.540000  size  3.150000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Прямоуг. Layer front
+position  2.525000  0.000000  size  3.150000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Прямоуг. Layer front
+position -2.525000  0.000000  size  3.150000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Прямоуг. Layer front
+position  2.525000 -2.540000  size  3.150000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Прямоуг. Layer front
+position -2.525000 -2.540000  size  3.150000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Прямоуг. Layer front
+position  2.525000 -5.080000  size  3.150000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Прямоуг. Layer front
+position -2.525000 -5.080000  size  3.150000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  B4
+
+$MODULE "B3"
+reference "B3"
+value "02x05"
+footprint "Pin_Headers:Pin_Header_Straight_2x05_Pitch2.54mm_SMD"
+attribut smd
+position 132.245100 87.139700  orientation 0.00
+layer front
+$PAD "1"
+Shape Прямоуг. Layer front
+position -2.525000 -5.080000  size  3.150000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Прямоуг. Layer front
+position  2.525000 -5.080000  size  3.150000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Прямоуг. Layer front
+position -2.525000 -2.540000  size  3.150000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Прямоуг. Layer front
+position  2.525000 -2.540000  size  3.150000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Прямоуг. Layer front
+position -2.525000  0.000000  size  3.150000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Прямоуг. Layer front
+position  2.525000  0.000000  size  3.150000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Прямоуг. Layer front
+position -2.525000  2.540000  size  3.150000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Прямоуг. Layer front
+position  2.525000  2.540000  size  3.150000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "9"
+Shape Прямоуг. Layer front
+position -2.525000  5.080000  size  3.150000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "10"
+Shape Прямоуг. Layer front
+position  2.525000  5.080000  size  3.150000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  B3
+
+$MODULE "B2"
+reference "B2"
+value "02x05"
+footprint "Pin_Headers:Pin_Header_Straight_2x05_Pitch2.54mm_SMD"
+attribut smd
+position 132.257800 70.802500  orientation 0.00
+layer front
+$PAD "10"
+Shape Прямоуг. Layer front
+position  2.525000  5.080000  size  3.150000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "9"
+Shape Прямоуг. Layer front
+position -2.525000  5.080000  size  3.150000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Прямоуг. Layer front
+position  2.525000  2.540000  size  3.150000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Прямоуг. Layer front
+position -2.525000  2.540000  size  3.150000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Прямоуг. Layer front
+position  2.525000  0.000000  size  3.150000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Прямоуг. Layer front
+position -2.525000  0.000000  size  3.150000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Прямоуг. Layer front
+position  2.525000 -2.540000  size  3.150000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Прямоуг. Layer front
+position -2.525000 -2.540000  size  3.150000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Прямоуг. Layer front
+position  2.525000 -5.080000  size  3.150000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Прямоуг. Layer front
+position -2.525000 -5.080000  size  3.150000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  B2
+
+$MODULE "B1"
+reference "B1"
+value "02x05"
+footprint "Pin_Headers:Pin_Header_Straight_2x05_Pitch2.54mm_SMD"
+attribut smd
+position 141.732000 70.827900  orientation 0.00
+layer front
+$PAD "1"
+Shape Прямоуг. Layer front
+position -2.525000 -5.080000  size  3.150000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Прямоуг. Layer front
+position  2.525000 -5.080000  size  3.150000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Прямоуг. Layer front
+position -2.525000 -2.540000  size  3.150000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Прямоуг. Layer front
+position  2.525000 -2.540000  size  3.150000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "5"
+Shape Прямоуг. Layer front
+position -2.525000  0.000000  size  3.150000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "6"
+Shape Прямоуг. Layer front
+position  2.525000  0.000000  size  3.150000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "7"
+Shape Прямоуг. Layer front
+position -2.525000  2.540000  size  3.150000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "8"
+Shape Прямоуг. Layer front
+position  2.525000  2.540000  size  3.150000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "9"
+Shape Прямоуг. Layer front
+position -2.525000  5.080000  size  3.150000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "10"
+Shape Прямоуг. Layer front
+position  2.525000  5.080000  size  3.150000  1.000000  orientation 0.00
+drill  0.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  B1
+
+$MODULE "B1"
+reference "B1"
+value "Conn_01x05"
+footprint "Pin_Headers:Pin_Header_Straight_1x05_Pitch2.54mm"
+attribut none
+position 149.580600 74.206100  orientation 0.00
+layer front
+$PAD "5"
+Shape Овал Layer both
+position  0.000000 10.160000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "4"
+Shape Овал Layer both
+position  0.000000  7.620000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "3"
+Shape Овал Layer both
+position  0.000000  5.080000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Овал Layer both
+position  0.000000  2.540000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Прямоуг. Layer both
+position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  B1
+
+$EndDESCRIPTION

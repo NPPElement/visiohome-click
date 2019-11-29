@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name VHClick-rev1)(type KiCad)(uri ${KIPRJMOD}/VHClick-rev1.pretty)(options "")(descr ""))
+)

@@ -1,0 +1,26 @@
+### Module positions - created on 2019 November 29, Friday 21:46:54 ###
+### Printed by Pcbnew version kicad (5.1.4-0-10_14)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val       Package                PosX       PosY       Rot  Side
+D1        SB160     D_SMA             -139.1031   -80.4037    0.0000  bottom
+D2        SB160     D_SMA             -139.1031   -83.3501    0.0000  bottom
+D3        SB160     D_SMA             -139.1031   -86.2965    0.0000  bottom
+D4        SB160     D_SMA             -139.1031   -89.2429    0.0000  bottom
+D5        SB160     D_SMA             -139.1031   -92.1893    0.0000  bottom
+D6        SB160     D_SMA             -129.5400   -80.4037    0.0000  bottom
+D7        SB160     D_SMA             -129.5400   -83.3501    0.0000  bottom
+D8        SB160     D_SMA             -129.5400   -86.2965    0.0000  bottom
+D9        SB160     D_SMA             -129.5400   -89.2429    0.0000  bottom
+D10       SB160     D_SMA             -129.5400   -92.1893    0.0000  bottom
+D11       SB160     D_SMA             -129.5400   -65.6717    0.0000  bottom
+D12       SB160     D_SMA             -129.5400   -68.6181    0.0000  bottom
+D13       SB160     D_SMA             -129.5400   -71.5645    0.0000  bottom
+D14       SB160     D_SMA             -129.5400   -74.5109    0.0000  bottom
+D15       SB160     D_SMA             -129.5400   -77.4573    0.0000  bottom
+D16       SB160     D_SMA             -139.1031   -65.6717    0.0000  bottom
+D17       SB160     D_SMA             -139.1031   -68.6181    0.0000  bottom
+D18       SB160     D_SMA             -139.1031   -71.5645    0.0000  bottom
+D19       SB160     D_SMA             -139.1031   -74.5109    0.0000  bottom
+D20       SB160     D_SMA             -139.1031   -77.4573    0.0000  bottom
+## End

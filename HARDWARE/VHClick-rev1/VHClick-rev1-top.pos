@@ -1,0 +1,10 @@
+### Module positions - created on 2019 November 29, Friday 21:46:54 ###
+### Printed by Pcbnew version kicad (5.1.4-0-10_14)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val       Package                                        PosX       PosY       Rot  Side
+B1        02x05     Pin_Header_Straight_2x05_Pitch2.54mm_SMD   141.7320   -70.8279    0.0000  top
+B2        02x05     Pin_Header_Straight_2x05_Pitch2.54mm_SMD   132.2578   -70.8025    0.0000  top
+B3        02x05     Pin_Header_Straight_2x05_Pitch2.54mm_SMD   132.2451   -87.1397    0.0000  top
+B4        02x05     Pin_Header_Straight_2x05_Pitch2.54mm_SMD   141.8463   -87.1347    0.0000  top
+## End
